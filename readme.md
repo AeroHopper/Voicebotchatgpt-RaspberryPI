@@ -26,6 +26,7 @@ This project requires Python 3.8 or higher. It also requires specific Python pac
 
 ```
 pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 In addition to these packages, this project also uses:

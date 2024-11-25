@@ -73,6 +73,7 @@ The InputListener class is responsible for listening to the user's input and det
 The threshold for silence can be adjusted in the `config.json` file using the `silence_threshold` parameter. The `silence_duration` parameter determines how long the silence must continue before the system decides that the user has finished speaking.
 
 The correct values for these parameters may depend on the specific microphone and environment you are using. If you are unsure about the correct values, you can run the program and observe the RMS values that are printed to the console after the wake word is detected. Here is an example:
+The correct values for these parameters may depend on the specific microphone and environment you are using. If you are unsure about the correct values, you can run the program and observe the RMS values that are printed to the console after the wake word is detected. Here is an example:
 
 ```
 RMS: 347
